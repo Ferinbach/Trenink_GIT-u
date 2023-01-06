@@ -1,1 +1,1 @@
-console.log("serving fish, wau")
+consol.log("serving fish")
