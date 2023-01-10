@@ -1,4 +1,5 @@
-# Trenink GIT-u
+# Trénink GIT-u
+
 Git / GitHub od základov (yablko)
 
 Spoznávanie a osvojovanie si rôznych funkcií GIT-u,
