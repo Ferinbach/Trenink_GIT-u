@@ -3,5 +3,5 @@
 Git / GitHub od základov (yablko)
 
 Spoznávanie a osvojovanie si rôznych funkcií GIT-u,
-za účelom jeho pochopenia  a  tým pádom správneho používani v rámci vlastných,
-alebo firemných projekto a produktov.
+za účelom jeho pochopenia a tým pádom jeho správneho používania v rámci vlastných,
+alebo firemných projektov a produktov.
