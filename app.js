@@ -1,3 +1,3 @@
-console.log ("serving fish")
-console.log ("oh no")
-console.log ("Jorjo 1., 2. a Bobo")
+console.log ("serving fish");
+console.log ("oh no");
+console.log ("bombo-lombo-colombo");
