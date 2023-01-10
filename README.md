@@ -8,3 +8,4 @@ Pričom GIT je celkom zauímavý nástroj- hlavne možnosti a spôsoby jeho vyu�
 Sám som vyskúšal používať  hneď  4  jeho verzie ( 3 terminály z toho 1 vo VS Code )
 a potom taktiež vo VS Code vstavané povely, resp. funkcie GIT-u.
 Je to len trochu komplikovanejší spôsob ukladania ako  napr. u videohier na konzolách :D
+GIT  whatchanged?
