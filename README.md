@@ -32,6 +32,9 @@ xcode-select --install
 
 Ak sa nedarí, nainštaluj [odtiaľto](https://git-scm.com/download/).
 
+---
+### GIT NASTAVENIA
+
 Nastavte si meno a heslo (v prípade, že už používate Github, _tak samozrejme použijete údaje z Vášho GIT-hub účtu_ ;).
 
 ```
