@@ -3,11 +3,12 @@
 Git / GitHub od základov (yablko)
 
 Spoznávanie a osvojovanie si rôznych funkcií **GIT-u**, 
-za účelom jeho pochopenia a tým pádom správneho používania v rámci vlastných, alebo firemných projektov / produktov.  
-GIT je celkom zauímavý nástroj pričom je hneď niekoľko verzii / platforiem,   
-kde je s ním možné pracovať.  
+za účelom jeho pochopenia a tým pádom správneho používania v rámci vlastných,   
+alebo firemných projektov / produktov.  
+GIT je celkom zauímavý nástroj pričom je hneď niekoľko verzii /   
+platforiem, v rámci ktorých je možné s GIT-om pracovať.  
 Počas tohto kurzu som vyskúšal používanie hneď  4 verzii GIT-u  
-= 3 terminály ( originál Git, cmder- v podstate nešiel a vo VS Visual Code vstavaný terminál ) 
+= 3 terminály ( originál Git, cmder- v podstate nešiel a vo VS Visual Code vstavaný terminál )   
 a taktiež vo VS Visual Code vstavané povely / funkcie GIT-u.  
 A príde mi to ako len o trochu komplikovanejší spôsob ukladania dát ako je tomu napr. u videohier :D
 
@@ -23,7 +24,7 @@ a vysvetlené v kurze:
 Pre Windows yablko odporúča [cmder](https://cmder.app/)
 
 Na Mac-Os spustite 1. príkaz cez terminál 
-a nemali by ste mať problém s inštaláciou 
+a nemali by ste mať problém s inštaláciou   
 a ak predsa, tak použite 2. príkaz ;)
 
 ```
