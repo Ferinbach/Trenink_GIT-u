@@ -3,12 +3,11 @@
 Git / GitHub od základov (yablko)
 
 Spoznávanie a osvojovanie si rôznych funkcií **GIT-u**, 
-za účelom jeho pochopeniaa tým pádom jeho správneho používania v rámci vlastných, 
-alebo firemných projektov / produktov.
-Pričom GIT je celkom zauímavý nástroj- hlavne možnosti a spôsoby jeho využitia, pričom jeho verzii je hneď niekoľko.
-Sám som vyskúšal používať  hneď  4  jeho verzie ( 3 terminály z toho 1 vo VS Code )
-a potom taktiež vo VS Code vstavané povely, resp. funkcie GIT-u.
-Je to len trochu komplikovanejší spôsob ukladania ako  napr. u videohier na konzolách :D
+za účelom jeho pochopenia tým pádom správneho používania v rámci vlastných, alebo firemných projektov / produktov.  
+GIT je celkom zauímavý nástroj pričom je hneď niekoľko verzii / platforiem, kde je s ním možné pracovať.  
+Počas tohto kurzu som vyskúšal používanie hneď  4 verzie GIT-u= 3 terminály ( originál Git, cmder- v podstate nešiel a vo VS Visual Code vstavaný terminál ) 
+a taktiež vo VS Visual Code vstavané povely / funkcie GIT-u.  
+A príde mi to ako len o trochu komplikovanejší spôsob ukladania dát ako je tomu napr. u videohier :D
 
 **Celý yablkov SK video-kurz je zadara na [Youtube](https://www.youtube.com/watch?v=0v5K4GvK4Gs&t=939s) ;)**
 
@@ -23,14 +22,14 @@ Pre Windows yablko odporúča [cmder](http://cmder.net/)
 
 Na Mac-Os spustite 1. príkaz cez terminál 
 a nemali by ste mať problém s inštaláciou GIT-u 
-a ak aj predsa áno, tak použite aj 2. príkaz ;)
+a ak aj predsa, tak použite aj 2. príkaz ;)
 
 ```
 git --version
 xcode-select --install
 ```
 
-Nastavte si meno a heslo (v prípade, že už používate Github, _tak samozrejme použijete údaje z Vášho GIT-hub účtu_).
+Nastavte si meno a heslo (v prípade, že už používate Github, _tak samozrejme použijete údaje z Vášho GIT-hub účtu_ ;).
 
 ```
 git config --global user.name "tvojemeno"
@@ -47,7 +46,7 @@ Aktivácia GIT-u pre vaše projekty
 git init
 ```
 
-Následne skontrolujte stav / pozrite či a čo sa zmenilo.
+Následne skontrolujte stav / pozrite sa či a čo sa zmenilo.
 
 ```
 git status
