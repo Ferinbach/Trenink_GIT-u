@@ -22,8 +22,8 @@ a vysvetlené v kurze:
 
 Pre Windows yablko odporúča [cmder](https://cmder.app/)
 
-Na Mac-Os spustite 1. príkaz cez terminál   
-a nemali by ste mať problém s inštaláciou a ak predsa, tak použite 2. príkaz ;)
+Na Mac-Os spustite 1. príkaz cez terminál a nemali by ste mať problém s inštaláciou   
+a ak predsa, tak použite 2. príkaz ;)
 
 ```
 git --version
