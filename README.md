@@ -3,13 +3,12 @@
 Git / GitHub od základov (yablko)
 
 Spoznávanie a osvojovanie si rôznych funkcií **GIT-u**, 
-za účelom jeho pochopenia a tým pádom správneho používania v rámci vlastných,   
-alebo firemných projektov / produktov.  
+za účelom jeho pochopenia   
+a tým pádom správneho používania v rámci vlastných, alebo firemných projektov / produktov.  
 GIT je celkom zauímavý nástroj pričom je hneď niekoľko verzii /   
 platforiem, v rámci ktorých je možné s GIT-om pracovať.  
-Počas tohto kurzu som vyskúšal používanie hneď  4 verzii GIT-u  
-= 3 terminály ( originál Git, cmder- v podstate nešiel a vo VS Visual Code vstavaný terminál )   
-a taktiež vo VS Visual Code vstavané povely / funkcie GIT-u.  
+Počas tohto kurzu som vyskúšal používanie hneď  4 verzii GIT-u= 3 terminály ( originál Git, cmder- v podstate nešiel   
+a vo VS Visual Code vstavaný terminál ) a taktiež vo VS Visual Code vstavané povely / funkcie GIT-u.  
 A príde mi to ako len o trochu komplikovanejší spôsob ukladania dát ako je tomu napr. u videohier :D
 
 **Celý yablkov SK video-kurz je zadara na [Youtube](https://www.youtube.com/watch?v=0v5K4GvK4Gs&t=939s) ;)**
