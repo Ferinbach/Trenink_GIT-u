@@ -21,8 +21,8 @@ a vysvetlené v kurze:
 Pre Windows yablko odporúča [cmder](https://cmder.app/)
 
 Na Mac-Os spustite 1. príkaz cez terminál 
-a nemali by ste mať problém s inštaláciou GIT-u 
-a ak aj predsa, tak použite aj 2. príkaz ;)
+a nemali by ste mať problém s inštaláciou 
+a ak predsa, tak použite 2. príkaz ;)
 
 ```
 git --version
@@ -30,7 +30,7 @@ xcode-select --install
 ```
 
 
-Ak sa nedarí, nainštaluj [odtiaľto](https://git-scm.com/download/).
+Ak sa nedarí, nainštalujte [odtiaľto](https://git-scm.com/download/).
 
 ---
 ### GIT NASTAVENIA
@@ -46,7 +46,7 @@ git config --global user.email "tvoj@email"
 
 ### GIT- základy:
 
-Aktivácia GIT-u pre vaše projekty
+Aktivácia GIT-u pre Vaše projekty
 
 ```
 git init
@@ -58,14 +58,15 @@ Následne skontrolujte stav / pozrite sa či a čo sa zmenilo.
 git status
 ```
 
-Ak vykonáte zmenu v súbore **a chcete ju preniesť do novej verzie projektu označte ho!**
+Ak vykonáte zmenu v súbore **a chcete ju preniesť do novej verzie projektu, tak ho označte!**
 
 ```
 git add (napr.)index.html
 ```
 
 Následne vytesajte zmenu do "kameňa" ( GIT-u :D)
-a to tak, **že po každej zmene pridáte stručný popis zmeny / vykonanej akcie.**
+a to tak,  
+**že po každej zmene pridáte stručný popis zmeny / vykonanej akcie.**
 
 ```
 git commit -m (napr.)"Pridanie index.html"
@@ -77,7 +78,7 @@ Taktiež si pozrite vývoj celého projektu- jednotlivé pridané zmeny aj s kom
 git log
 ```
 
-Vyššie uvedené povely opakujte s každou zmenou /
+Vyššie uvedené povely opakujte s každou zmenou /  
 úpravou kódu vo Vašich súboroch, ktorú chcete uchovať ;)
 
 ---
